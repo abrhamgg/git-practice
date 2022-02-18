@@ -4,3 +4,4 @@ blue
 indigo
 violet
 purple
+black and white
